@@ -1,0 +1,61 @@
+.body{
+    background-color: grey;
+    text-align: center;
+    line-height: 20px;
+    
+    }
+    .Emcabezado{
+        background-color: BEIGe;
+    }
+    
+.contabilidad{
+    margin-top: 18px;
+    width: 90%;
+    height: 150px;
+    
+}
+.Parrafo{
+    line-height: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 8PX;
+    height: auto;
+}
+
+
+.Sección2{
+    background-color: #dfe9eb;
+}
+
+
+.Sección2 :hover{
+    background-color: skyblue;
+}
+
+
+
+
+.Titulo1{
+    text-align: center;    
+    color: blue;
+    width: 100%;
+    height: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.Sección1{
+    background-color: tan;
+}
+
+
+
+
+.Footer{
+    background-color: black;
+    width: 30%;
+    height: 5px;
+    font-family: 'arialTimes New Roman';
+    color: blue; 
+    margin: auto;
+}
